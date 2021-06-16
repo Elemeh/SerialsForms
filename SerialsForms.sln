@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialsForms", "SerialsForms\SerialsForms.csproj", "{B5951F69-833A-4247-8CBF-3AA6B1476C9D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupSetup", "SetupSetup\SetupSetup.vdproj", "{572C2A16-432A-483C-9313-53E4CB827D81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5951F69-833A-4247-8CBF-3AA6B1476C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5951F69-833A-4247-8CBF-3AA6B1476C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5951F69-833A-4247-8CBF-3AA6B1476C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5951F69-833A-4247-8CBF-3AA6B1476C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572C2A16-432A-483C-9313-53E4CB827D81}.Debug|Any CPU.ActiveCfg = Debug
+		{572C2A16-432A-483C-9313-53E4CB827D81}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B116DB5-CF5D-4657-BB21-DC73B042C5EC}
+	EndGlobalSection
+EndGlobal
